@@ -1,0 +1,12 @@
+
+product_id,name,category,price,rating,description
+101,HP Laptop,Electronics,45000,4.5,8GB RAM laptop for students
+102,Dell Laptop,Electronics,52000,4.6,16GB RAM laptop for programming
+103,Boat Headphones,Accessories,1500,4.2,Wireless bluetooth headphones
+104,Samsung Phone,Mobile,25000,4.4,Android smartphone with good camera
+105,Apple iPhone,Mobile,75000,4.8,Premium smartphone with advanced camera
+106,Logitech Mouse,Accessories,800,4.3,Wireless mouse for laptop
+107,Lenovo Laptop,Electronics,48000,4.5,Laptop for coding and office work
+108,Boat Earbuds,Accessories,1200,4.1,Wireless bluetooth earbuds
+109,Samsung Tablet,Electronics,30000,4.3,Tablet for studying and entertainment
+110,Mechanical Keyboard,Accessories,2500,4.6,Mechanical keyboard for programming
